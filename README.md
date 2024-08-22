@@ -98,9 +98,9 @@ npm start
 ## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Grupo de WhatsApp
 
 
-- Comunidad de Whatsapp para usar el bot https://chat.whatsapp.com/F0ydbjpgizM0PPa69KGLtl
+- Comunidad de Whatsapp para usar el bot 
 
-* <a href="https://chat.whatsapp.com/CqdWTXmS702JD31SQzr0Ph"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="[https://chat.whatsapp.com/F0ydbjpgizM0PPa69KGLtl](https://chat.whatsapp.com/F0ydbjpgizM0PPa69KGLtl)"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---------
 
