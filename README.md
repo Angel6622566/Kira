@@ -121,4 +121,4 @@ npm start
 
 <a href="https://github.com/StarlightsTeam"><img src="https://i.ibb.co/qRfKp3t/file.jpg" width="300" height="300" alt="おAngel.Perez"/></a>
 
-`© Ai Hoshino - MD / Starlights Team _ By おDaniel`
+`© Ai Hoshino - MD / Starlights Team _ By おAngel`
