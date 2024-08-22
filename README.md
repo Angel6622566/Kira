@@ -100,7 +100,7 @@ npm start
 
 - Comunidad de Whatsapp para usar el bot 
 
-* <a href="[https://chat.whatsapp.com/F0ydbjpgizM0PPa69KGLtl](https://chat.whatsapp.com/F0ydbjpgizM0PPa69KGLtl)"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="(https://chat.whatsapp.com/F0ydbjpgizM0PPa69KGLtl)"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---------
 
